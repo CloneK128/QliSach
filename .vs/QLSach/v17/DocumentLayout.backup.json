@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CloneK\\source\\repos\\QLSach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E244F5B2-6E9D-4A75-ABBB-40272AB1D87B}|QLSach\\QLSach.csproj|c:\\users\\clonek\\source\\repos\\qlsach\\qlsach\\baocaodoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E244F5B2-6E9D-4A75-ABBB-40272AB1D87B}|QLSach\\QLSach.csproj|solutionrelative:qlsach\\baocaodoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E244F5B2-6E9D-4A75-ABBB-40272AB1D87B}|QLSach\\QLSach.csproj|C:\\Users\\CloneK\\source\\repos\\QLSach\\qlsach\\qlisach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E244F5B2-6E9D-4A75-ABBB-40272AB1D87B}|QLSach\\QLSach.csproj|solutionrelative:qlsach\\qlisach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E244F5B2-6E9D-4A75-ABBB-40272AB1D87B}|QLSach\\QLSach.csproj|C:\\Users\\CloneK\\source\\repos\\QLSach\\qlsach\\qlisach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E244F5B2-6E9D-4A75-ABBB-40272AB1D87B}|QLSach\\QLSach.csproj|solutionrelative:qlsach\\qlisach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E244F5B2-6E9D-4A75-ABBB-40272AB1D87B}|QLSach\\QLSach.csproj|C:\\Users\\CloneK\\source\\repos\\QLSach\\qlsach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E244F5B2-6E9D-4A75-ABBB-40272AB1D87B}|QLSach\\QLSach.csproj|solutionrelative:qlsach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E244F5B2-6E9D-4A75-ABBB-40272AB1D87B}|QLSach\\QLSach.csproj|c:\\users\\clonek\\source\\repos\\qlsach\\qlsach\\baocaodoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E244F5B2-6E9D-4A75-ABBB-40272AB1D87B}|QLSach\\QLSach.csproj|solutionrelative:qlsach\\baocaodoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E244F5B2-6E9D-4A75-ABBB-40272AB1D87B}|QLSach\\QLSach.csproj|c:\\users\\clonek\\source\\repos\\qlsach\\qlsach\\pn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E244F5B2-6E9D-4A75-ABBB-40272AB1D87B}|QLSach\\QLSach.csproj|solutionrelative:qlsach\\pn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E244F5B2-6E9D-4A75-ABBB-40272AB1D87B}|QLSach\\QLSach.csproj|c:\\users\\clonek\\source\\repos\\qlsach\\qlsach\\pn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E244F5B2-6E9D-4A75-ABBB-40272AB1D87B}|QLSach\\QLSach.csproj|solutionrelative:qlsach\\pn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E244F5B2-6E9D-4A75-ABBB-40272AB1D87B}|QLSach\\QLSach.csproj|c:\\users\\clonek\\source\\repos\\qlsach\\qlsach\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E244F5B2-6E9D-4A75-ABBB-40272AB1D87B}|QLSach\\QLSach.csproj|solutionrelative:qlsach\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E244F5B2-6E9D-4A75-ABBB-40272AB1D87B}|QLSach\\QLSach.csproj|c:\\users\\clonek\\source\\repos\\qlsach\\qlsach\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E244F5B2-6E9D-4A75-ABBB-40272AB1D87B}|QLSach\\QLSach.csproj|solutionrelative:qlsach\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PN.cs",
+              "DocumentMoniker": "C:\\Users\\CloneK\\source\\repos\\QLSach\\QLSach\\PN.cs",
+              "RelativeDocumentMoniker": "QLSach\\PN.cs",
+              "ToolTip": "C:\\Users\\CloneK\\source\\repos\\QLSach\\QLSach\\PN.cs",
+              "RelativeToolTip": "QLSach\\PN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:05:31.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaoCaoDoanhThu.cs",
+              "DocumentMoniker": "C:\\Users\\CloneK\\source\\repos\\QLSach\\QLSach\\BaoCaoDoanhThu.cs",
+              "RelativeDocumentMoniker": "QLSach\\BaoCaoDoanhThu.cs",
+              "ToolTip": "C:\\Users\\CloneK\\source\\repos\\QLSach\\QLSach\\BaoCaoDoanhThu.cs",
+              "RelativeToolTip": "QLSach\\BaoCaoDoanhThu.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAA6wGQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:44:08.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CloneK\\source\\repos\\QLSach\\QLSach\\HoaDon.cs",
+              "RelativeDocumentMoniker": "QLSach\\HoaDon.cs",
+              "ToolTip": "C:\\Users\\CloneK\\source\\repos\\QLSach\\QLSach\\HoaDon.cs [Design]",
+              "RelativeToolTip": "QLSach\\HoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:02:37.697Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CloneK\\source\\repos\\QLSach\\QLSach\\Program.cs",
+              "RelativeDocumentMoniker": "QLSach\\Program.cs",
+              "ToolTip": "C:\\Users\\CloneK\\source\\repos\\QLSach\\QLSach\\Program.cs",
+              "RelativeToolTip": "QLSach\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:21:42.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QliSach.cs",
+              "DocumentMoniker": "C:\\Users\\CloneK\\source\\repos\\QLSach\\QLSach\\QliSach.cs",
+              "RelativeDocumentMoniker": "QLSach\\QliSach.cs",
+              "ToolTip": "C:\\Users\\CloneK\\source\\repos\\QLSach\\QLSach\\QliSach.cs",
+              "RelativeToolTip": "QLSach\\QliSach.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAD4v0MAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:15:02.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QliSach.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CloneK\\source\\repos\\QLSach\\QLSach\\QliSach.cs",
+              "RelativeDocumentMoniker": "QLSach\\QliSach.cs",
+              "ToolTip": "C:\\Users\\CloneK\\source\\repos\\QLSach\\QLSach\\QliSach.cs [Design]",
+              "RelativeToolTip": "QLSach\\QliSach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:03:00.06Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaoCaoDoanhThu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CloneK\\source\\repos\\QLSach\\QLSach\\BaoCaoDoanhThu.cs",
+              "RelativeDocumentMoniker": "QLSach\\BaoCaoDoanhThu.cs",
+              "ToolTip": "C:\\Users\\CloneK\\source\\repos\\QLSach\\QLSach\\BaoCaoDoanhThu.cs [Design]",
+              "RelativeToolTip": "QLSach\\BaoCaoDoanhThu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:25:01.077Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\CloneK\\source\\repos\\QLSach\\QLSach\\HoaDon.cs",
+              "RelativeDocumentMoniker": "QLSach\\HoaDon.cs",
+              "ToolTip": "C:\\Users\\CloneK\\source\\repos\\QLSach\\QLSach\\HoaDon.cs",
+              "RelativeToolTip": "QLSach\\HoaDon.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAIAywMEAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:09:59.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PN.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CloneK\\source\\repos\\QLSach\\QLSach\\PN.cs",
+              "RelativeDocumentMoniker": "QLSach\\PN.cs",
+              "ToolTip": "C:\\Users\\CloneK\\source\\repos\\QLSach\\QLSach\\PN.cs [Design]",
+              "RelativeToolTip": "QLSach\\PN.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:05:07.467Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
